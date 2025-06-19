@@ -1,6 +1,6 @@
 ## Hey! I'm Maxille Tasco.
 
-- 🔭 I’m currently working on my portfolio;
+- 🔭 I'm currently finishing the Full Stack Open course at the University of Helsinki;
 - 🌱 I’m currently learning TypeScript, NodeJS and React;
 - 🕵️‍♀️ Looking for my first opportunity as a web developer;
 
